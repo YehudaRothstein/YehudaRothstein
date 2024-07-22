@@ -17,9 +17,8 @@
 - Web Applications with Flask
 
 ## 📫 How to reach me ...
-- Email: your-email@example.com
-- LinkedIn: [Yehuda Rothstein](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- Email: yehudarothstein@gmail.com
+- Phone: +972 505588308
 
 ## 😄 Pronouns:
 - He/Him
