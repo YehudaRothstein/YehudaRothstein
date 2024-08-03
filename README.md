@@ -20,8 +20,3 @@
 - Email: yehudarothstein@gmail.com
 - Phone: +972 505588308
 
-## 😄 Pronouns:
-- He/Him
-
-## ⚡ Fun fact:
-- I love building robots and participating in robotics competitions!
